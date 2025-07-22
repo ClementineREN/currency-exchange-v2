@@ -1,0 +1,23 @@
+{
+  "name": "currency-exchange-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClementineREN/currency-exchange-v2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClementineREN/currency-exchange-v2/issues"
+  },
+  "homepage": "https://github.com/ClementineREN/currency-exchange-v2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^30.0.5"
+  }
+}
